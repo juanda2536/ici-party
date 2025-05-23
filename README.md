@@ -26,3 +26,5 @@
 * Nicolás Quintana
 * Carlos Moreno 
 * Diego Solis R.
+* Juan Yañez
+* 
